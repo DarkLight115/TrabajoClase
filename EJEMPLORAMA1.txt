@@ -1,2 +1,3 @@
-Rama V1 VA A CAMBIAR
-POR QUE AQUISE FUNCIONO CON LA RAMA V1.2
+Aqui se fuciono main con V1
+Despues de que V1 se fucionara con V1.
+Mucho despues de que V1 se fucionara con main
