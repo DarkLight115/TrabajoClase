@@ -1,0 +1,166 @@
+ git config --global user.name DarkLight115
+  500  git config --global user.email ivansotosep6@gmail.com
+  501  git init
+  502  git bran -M main
+  503  git branch -M main
+  504  git remote add origin https://github.com/DarkLight115/TrabajoClase.git
+  505  git add .
+  506  git commit -m "INICIO"
+  507  git push -u origin Main
+  508  git push -u origin Main
+  509  git push -u origin main
+  510  git config --local --list
+  511  git config --global --list
+  512  git branch
+  513  git branch main-V1
+  514  git switch main-V1
+  515  git status -s
+  516  git add .
+  517  git commit -m "Probando la Branch V1"
+  518  git push -u origin main-V1
+  519  git switch main
+  520  git branch -m main-V1 verV1
+  521  git switch verV1
+  522  git condig --global --list
+  523  git config --global --list
+  524  git status
+  525  git add .
+  526  git commit -m "Se añadio archivo en la rama V1"
+  527  git log
+  528  git push
+  529  git push origin HEAD:main-V1
+  530  git branch -v
+  531  git push origin -d main-V1
+  532  git log
+  533  git push origin verV1
+  534  git push
+  535  git push origin HEAD
+  536  git add .
+  537  git commit -m "Nuevo push en V1"
+  538  git push origin HEAD
+  539  git branch verV1.2
+  540  git switch verV1.2
+  541  git add .
+  542  git commmit -m "Probando V1.2"
+  543  git commit -m "Probando V1.2"
+  544  git switch main
+  545  ls
+  546  git log
+  547  git branch -v
+  548  git branch
+  549  git branch -r
+  550  git fetch --prune
+  551  git branch
+  552  git branch -v
+  553  git push
+  554  git branch verV1
+  555  git switch verV1
+  556  git status
+  557  git push -u orign verv1
+  558  git push -u orign verV1
+  559  git push -u origin verV1
+  560  git add .
+  561  git commit -m "Talvez cambio por fin de main-v1 a verV1"
+  562  git push
+  563  git branch -v
+  564  git switch verV1.2
+  565  git add .
+  566  git commit -m "Inicio de la rama Ver1.2"
+  567  git push
+  568  git push -u origin verV1.2
+  569  git switch main
+  570  git merge verV1
+  571  git branch -v
+  572  git status
+  573  git log
+  574  git log --oneline
+  575  git push
+  576  git log --oneline
+  577  git status -s
+  578  git add .
+  579  git commit -m "Modificando despues del merge"
+  580  git log --oneline
+  581  git branch -v
+  582  git push
+  583  git switch verV1.2
+  584  git branch --mergerds
+  585  git branch --mergerd
+  586  git branch --merged
+  587  git switch main
+  588  git branch --merged
+  589  git branch --no-merged
+  590  git diff verV1 verV1.2
+  591  git diff feature
+  592  git diff verV1.2
+  593  git switch VerV1
+  594  git branch -v
+  595  git log --oneline
+  596  git switch verV1.2
+  597  git status
+  598  git status
+  599  git add .
+  600  git commit -m "fin de la rama"
+  601  git push
+  602  git switch merge
+  603  git switch main
+  604  git push --all origin
+  605  git switch verV1
+  606  git merge verV1.2
+  607  git merge verV1.2
+  608  git commit -m "fusion entre v1 y v1.2"
+  609  git diff
+  610  git log --oneline
+  611  git push
+  612  git switch main
+  613  git log --oneline
+  614  git push --all origin
+  615  git commit -m "guardado antes de union"
+  616  git commit -a -m "guardado antes de union"
+  617  git log --oneline
+  618  git push
+  619  git swich verV1
+  620  git swich verV1
+  621  git swich VerV1
+  622  git switch verV1
+  623  git switch VerV1
+  624  git branch
+  625  git branch switch VerV1
+  626  git branch switch verV1
+  627  git switch verV1
+  628  git reset --hard
+  629  git reset --hard
+  630  git diff
+  631  git switch VerV1
+  632  git status
+  633  git commit -m "ultimo del ver1"
+  634  git commit -a -m "ultimo del ver1"
+  635  git push
+  636  git branch
+  637  git branch -d switch
+  638  git branch -m VerV1 verV1
+  639  git branch -m verV1
+  640  git push -u origin verV1
+  641  git switch main
+  642  git branch
+  643  git branch -m VerV1 ver1
+  644  git branch
+  645  git switch ver1
+  646  git switch main
+  647  git branch -m ver1 verV1
+  648  git branch
+  649  git switch verV1
+  650  git status
+  651  git log --oneline
+  652  git push -u origin verV1
+  653  git switch main
+  654  git merge verV1
+  655  git status
+  656  git add .
+  657  git commit -m "unimos todo"
+  658  git push --all origin
+  659  ls
+  660  rem EJEMPLORAMA1-2.txt
+  661  rm EJEMPLORAMA1-2.txt
+  662  git commit -a -m "Terminamos"
+  663  git push
+  664  history
